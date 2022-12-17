@@ -14,7 +14,9 @@ ROC eğrisi altında kalan (Area Under the Curve: AUC) alan ROC puanı olarak ta
 • ROC puanı 0 (sıfır) olduğunda ise herhangi bir pozitif bulunamadı anlamına gelir.
 
 
-    ![image](https://user-images.githubusercontent.com/100937634/208230664-d79a565c-5c67-4699-9fe8-14dec1158786.png)
+
+
+![image](https://user-images.githubusercontent.com/100937634/208230664-d79a565c-5c67-4699-9fe8-14dec1158786.png)
 
 
 
